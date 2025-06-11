@@ -1,6 +1,6 @@
 # FantasyTalking: Realistic Talking Portrait Generation via Coherent Motion Synthesis
 
-[![Home Page](https://img.shields.io/badge/Project-<Website>-blue.svg)](https://fantasy-amap.github.io/fantasy-talking/) 
+[![Home Page](https://img.shields.io/badge/Project-Website-blue.svg)](https://fantasy-amap.github.io/fantasy-talking/)
 [![arXiv](https://img.shields.io/badge/Arxiv-2504.04842-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2504.04842) 
 [![hf_paper](https://img.shields.io/badge/🤗-Paper%20In%20HF-red.svg)](https://huggingface.co/papers/2504.04842)
 
@@ -13,7 +13,7 @@
 
 ## Code
 
-Ours model and code is comming soon.
+Our model and code are coming soon.
 
 ## Citation
 ```
